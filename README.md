@@ -10,11 +10,15 @@ Bruteforce with wordlist
 
 Installation :
 $ pkg install python2 git
+
 $ pip2 install mechanize
 
 Running tool :
+
 $ git clone https://github.com/thaniaanatasya/Hack.git
+
 $ cd Hack
+
 $ python2 fb.py
 
 
