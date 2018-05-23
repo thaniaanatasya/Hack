@@ -9,6 +9,7 @@ Bruteforce with single password
 Bruteforce with wordlist
 
 Installation :
+
 $ pkg install python2 git
 
 $ pip2 install mechanize
@@ -24,8 +25,11 @@ $ python2 fb.py
 
 Option number :
 1 for grab ID from group
+
 2 for grab ID from your friendlist
+
 3 for exit
+
 If you chosse option 1 . you must now ID group target
 login facebook with your browser, and search grup target ,, open the group and see the link
 Untitled
